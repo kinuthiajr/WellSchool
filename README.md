@@ -1,7 +1,7 @@
 #### WellSchool Backend Engineering 
 C# OOP Library Management System
 
-Folder and file structure: The classes are in the folder called **Models** *book.cs* file and the *Program.cs* is where the objects created from the classes are implemented.
+Folder and file structure: The classes are in the folder called **Models** *book.cs* file and the *Program.cs* is where the objects created from the classes are implemented. The code is in the second branch **Master**
 
 ## Assignment: Library Management System
 Objective:
